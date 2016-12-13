@@ -20,6 +20,8 @@
 	border: 0px solid;
 	animation: moviemto-santa 5.1s infinite 800ms steps(1);
 	-webkit-animation: moviemto-santa 5.1s infinite 800ms steps(1);
+	-moz-animation: moviemto-santa 5.1s infinite 800ms steps(1);
+	-o-animation: moviemto-santa 5.1s infinite 800ms steps(1);
 }
 
 
