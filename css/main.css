@@ -18,7 +18,8 @@
 	position: relative;
 	top: 210%;
 	border: 0px solid;
-	animation: moviemto-santa 5.1s infinite 800ms steps(1)
+	animation: moviemto-santa 5.1s infinite 800ms steps(1);
+	-webkit-animation: moviemto-santa 5.1s infinite 800ms steps(1);
 }
 
 
